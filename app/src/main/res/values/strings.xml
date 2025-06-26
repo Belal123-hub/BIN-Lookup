@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BIN Lookup</string>
+    <string name="bin_lookup">BIN Lookup</string>
+    <string name="enter_bin">Enter BIN</string>
+    <string name="lookup">Lookup</string>
+    <string name="error">Error: %1$s</string>
+    <string name="card_details">Card Details</string>
+    <string name="scheme">Scheme</string>
+    <string name="type">Type</string>
+    <string name="brand">Brand</string>
+    <string name="prepaid">Prepaid</string>
+    <string name="bank_info">Bank Info</string>
+    <string name="name">Name</string>
+    <string name="city">City</string>
+    <string name="visit_bank_site">🌐 Visit Bank Site</string>
+    <string name="bank_url">🌐 Bank URL</string>
+    <string name="unavailable">Unavailable</string>
+    <string name="call_bank">📞 Call Bank</string>
+    <string name="tel">tel:%1$s</string>
+    <string name="phone">📞 Phone</string>
+    <string name="country_info">Country Info</string>
+    <string name="n_a">N/A</string>
+    <string name="currency">Currency</string>
+    <string name="view_location_on_map">📍 View Location on Map</string>
+    <string name="location">📍 Location</string>
+    <string name="view_history">View History</string>
+    <string name="lookup_history">Lookup History</string>
+    <string name="back">Back</string>
+</resources>
