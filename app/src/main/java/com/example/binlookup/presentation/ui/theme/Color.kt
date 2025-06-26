@@ -1,4 +1,4 @@
-package com.example.binlookup.ui.theme
+package com.example.binlookup.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.example.binlookup.ui.screen
+package com.example.binlookup.presentation.ui.screen
 
 import android.content.Intent
 import android.net.Uri

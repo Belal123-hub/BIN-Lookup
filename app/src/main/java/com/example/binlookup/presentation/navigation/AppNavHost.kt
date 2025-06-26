@@ -4,8 +4,8 @@ import androidx.compose.runtime.Composable
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.binlookup.ui.screen.BinLookupScreen
-import com.example.binlookup.ui.screen.HistoryScreen
+import com.example.binlookup.presentation.ui.screen.BinLookupScreen
+import com.example.binlookup.presentation.ui.screen.HistoryScreen
 
 @Composable
 fun AppNavHost() {

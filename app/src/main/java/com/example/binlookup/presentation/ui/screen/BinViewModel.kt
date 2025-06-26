@@ -1,4 +1,4 @@
-package com.example.binlookup.ui.screen
+package com.example.binlookup.presentation.ui.screen
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
